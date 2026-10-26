@@ -48,3 +48,5 @@ def find_student(students, name):
 
 students = load_students()
 print(f"មាន {len(students)} នាក់")
+
+print("B sl o")
